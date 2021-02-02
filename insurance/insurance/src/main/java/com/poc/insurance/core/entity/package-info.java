@@ -1,1 +1,0 @@
-package com.poc.insurance.core.entity;
